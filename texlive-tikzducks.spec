@@ -1,6 +1,6 @@
 Name:		texlive-tikzducks
-Version:	55713
-Release:	2
+Version:	66773
+Release:	1
 Summary:	A little fun package for using rubber ducks in TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikzducks
