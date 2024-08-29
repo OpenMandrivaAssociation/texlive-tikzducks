@@ -1,5 +1,5 @@
 Name:		texlive-tikzducks
-Version:	66773
+Version:	71098
 Release:	1
 Summary:	A little fun package for using rubber ducks in TikZ
 Group:		Publishing
