@@ -3,7 +3,7 @@ Version:	71098
 Release:	1
 Summary:	A little fun package for using rubber ducks in TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikzducks
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikzducks
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikzducks.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikzducks.doc.r%{version}.tar.xz
